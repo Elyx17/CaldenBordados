@@ -1,0 +1,42 @@
+[
+    {
+        "id": 11,
+        "marca": "audi",
+        "modelo": "A7",
+        "anio": 2022,
+        "kilometros": 0,
+        "estado": "Nuevo",
+        "valor": 15000000,
+        "img": "https://cdn-imgix.headout.com/tour/12441/TOUR-IMAGE/64a0a5a9-488e-4c5c-b427-e2ccfc5d51fa-6867-dubai-fast-track-img-worlds-of-adventure-tickets-04.jpeg"
+    },
+    {
+        "id": 12,
+        "marca": "chevrolet",
+        "modelo": "Cruze",
+        "anio": 2022,
+        "kilometros": 0,
+        "estado": "Nuevo",
+        "valor": 6000000,
+        "img": "https://cdn-imgix.headout.com/tour/12441/TOUR-IMAGE/64a0a5a9-488e-4c5c-b427-e2ccfc5d51fa-6867-dubai-fast-track-img-worlds-of-adventure-tickets-04.jpeg"
+    },
+    {
+        "id": 12,
+        "marca": "chevrolet",
+        "modelo": "Cruze",
+        "anio": 2022,
+        "kilometros": 0,
+        "estado": "Nuevo",
+        "valor": 6000000,
+        "img": "https://cdn-imgix.headout.com/tour/12441/TOUR-IMAGE/64a0a5a9-488e-4c5c-b427-e2ccfc5d51fa-6867-dubai-fast-track-img-worlds-of-adventure-tickets-04.jpeg"
+    },
+    {
+        "id": 12,
+        "marca": "chevrolet",
+        "modelo": "Cruze",
+        "anio": 2022,
+        "kilometros": 0,
+        "estado": "Nuevo",
+        "valor": 6000000,
+        "img": "https://cdn-imgix.headout.com/tour/12441/TOUR-IMAGE/64a0a5a9-488e-4c5c-b427-e2ccfc5d51fa-6867-dubai-fast-track-img-worlds-of-adventure-tickets-04.jpeg"
+    }
+]

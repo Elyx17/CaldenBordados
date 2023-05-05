@@ -1,0 +1,9 @@
+.allTitles{
+    text-transform: capitalize;
+}
+
+:root {
+    --color1: #b77;
+    --color2: #fff;
+
+}
