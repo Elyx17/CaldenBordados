@@ -1,0 +1,10 @@
+.caldenLogo{
+    width: 5rem;
+}
+
+.navbarCalden{
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin: 0 1rem;
+    font-size: 1.25rem;
+}

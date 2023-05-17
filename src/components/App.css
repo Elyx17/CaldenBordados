@@ -1,9 +1,10 @@
-.allTitles{
-    text-transform: capitalize;
+*{
+    border: 0;
+    margin: 0;
+    box-shadow: 0;
+    font-family: 'bellota';
 }
 
-:root {
-    --color1: #b77;
-    --color2: #fff;
-
+.allTitles{
+    text-transform: capitalize;
 }
