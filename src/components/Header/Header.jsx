@@ -7,11 +7,12 @@ const Header = () => {
         <div className='container'>
             <div className='box'>
                 <div className='boxGradient'>
-                    <h2>Hola Bordados!</h2>
+                    <h2>Hola BordadosDos!</h2>
                 </div>
             </div>
             <div className='box'>
                 <h2>Hola Bordados!</h2>
+                <button>Hola</button>
             </div>
               
         </div>
