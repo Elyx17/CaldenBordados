@@ -5,6 +5,13 @@
     font-family: 'bellota';
 }
 
+body{
+    position: relative;
+    padding-bottom: 4em;
+    min-height: 100vh;
+    margin: 0;
+}
+
 .allTitles{
     text-transform: capitalize;
 }

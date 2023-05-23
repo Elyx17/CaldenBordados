@@ -1,15 +1,15 @@
 
 import './App.css';
 import Navbar from './Navbar/Navbar';
-import Card from './Item/Item';
 import Header from './Header/Header';
+import Footer from './Footer/Footer';
 
 function App() {
   return (
     <>
       <Navbar/>
       <Header/>
-      <Card/>
+      <Footer/>
     </>
   );
 }

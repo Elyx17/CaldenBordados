@@ -1,0 +1,50 @@
+.containerFooter{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+.container-botones{
+    display: flex;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonInstagram{
+    display: flex;
+    width: auto;
+    height: 40px;
+    border-radius: 30px;
+    align-items: center;
+    font-family: 'Bellota';
+    font-size: 17px;
+    margin: 0px 40px 0px 10px;
+    gap: 0 10px;
+    color: white;
+    background: rgb(84, 84, 238);
+}
+
+.parrafo-instagram{
+    margin: 0;
+}
+
+.buttonWhatsapp{
+    display: flex;
+    width: auto;
+    height: 40px;
+    border-radius: 30px;
+    align-items: center;
+    font-family: 'Bellota';
+    font-size: 17px;
+    gap: 0 10px;
+    color: white;
+    background: rgb(44 141 48);
+}
+
+.parrafo-whatsapp{
+    margin: 0;
+}
