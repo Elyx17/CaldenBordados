@@ -8,9 +8,9 @@
 }
 
 .imgHeader{
-    border-radius: 73px;
-    width: 27%;
-    height: 36vh;
+    border-radius: 50%;
+    min-width: 400px;
+    height: 400px;
     margin-top: 30px;
 }
 

@@ -5,6 +5,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 5rem 0;
+    
 }
 
 .boxAboutMe{
@@ -13,6 +15,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
+    gap: 50px;
 }
 
 .iconsAbout{
@@ -86,3 +89,26 @@ object-fit: fill;
         background-position: center;
         object-fit: fill; 
     }
+
+
+.historyAbout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 15px 30px;
+}
+
+.imgAbout{
+    min-width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-image: url('../../../public/Img/principales/about1.jpg');
+    background-size: 22rem;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.textAbout{
+    width: 400px;
+}

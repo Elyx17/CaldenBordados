@@ -5,8 +5,8 @@ import './header.css'
 const Header = () => {
     return (
         <div className='container'>
-            <img className='imgHeader' src="./Img/logo/bolsito bordado simple.JPG" alt="" />
-            <h4>Calden Bordados</h4>
+            <img className='imgHeader' src="./Img/principales/bolsito bordado simple.JPG" alt="" />
+            <h4>Bordados artesanales personalizados</h4>
         </div>
     );
 }

@@ -11,7 +11,6 @@ const AboutMe = () => {
                     <div className="icon">
                         <div id='acerca'></div>
                         <h3>Acerca</h3>
-                        <i className="bi bi-instagram"></i>
                     </div>
 
                     <div className="icon">
@@ -34,7 +33,17 @@ const AboutMe = () => {
 
 
                 <div className='historyAbout'>
-
+                    <div className='imgAbout'></div>
+                    <div className='textAbout'>
+                        <h3>¿Cómo nace Calden?</h3>
+                        <p>
+                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ullam accusantium, 
+                       tenetur sed commodi corrupti est repellat necessitatibus inventore, iste neque tempore adipisci doloremque, aperiam officiis. 
+                       Exercitationem, deserunt fuga! Odio atque, aliquam voluptate similique quo modi aspernatur quam! Beatae, architecto?
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, nostrum asperiores consequuntur, iusto quisquam repudiandae 
+                       vel necessitatibus cumque assumenda dicta ex debitis animi voluptate similique vero ab. Sequi, natus aspernatur.
+                        </p>
+                    </div>
                 </div>
 
             </div>
