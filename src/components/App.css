@@ -5,6 +5,10 @@
     font-family: 'bellota';
 }
 
+body{
+    background-color: var(--main-bg);
+}
+
 .allTitles{
     text-transform: capitalize;
 }

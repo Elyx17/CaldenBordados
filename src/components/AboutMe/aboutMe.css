@@ -1,0 +1,88 @@
+.containerAboutMe{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxAboutMe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.iconsAbout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.icon div{
+    width: 180px;
+    height: 160px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+#acerca{
+background-image: url('../../../public/Img/icons/heart1.png');
+background-position: center;
+object-fit: fill; 
+}
+
+    #acerca:hover{
+        background-image: url('../../../public/Img/icons/heart2.png');
+        background-position: center;
+        object-fit: fill; 
+    }
+
+#galeria{
+    background-image: url('../../../public/Img/icons/group1.png');
+    background-position: center;
+    object-fit: fill; 
+    }
+    
+    #galeria:hover{
+        background-image: url('../../../public/Img/icons/group2.png');
+        background-position: center;
+        object-fit: fill; 
+    }
+
+#tienda{
+    background-image: url('../../../public/Img/icons/scissors1.png');
+    background-position: center;
+    object-fit: fill; 
+    }
+        
+    #tienda:hover{
+        background-image: url('../../../public/Img/icons/scissors2.png');
+        background-position: center;
+        object-fit: fill; 
+    }
+
+    
+#contacto{
+    background-image: url('../../../public/Img/icons/needle1.png');
+    background-position: center;
+    object-fit: fill; 
+    }
+            
+    #contacto:hover{
+        background-image: url('../../../public/Img/icons/needle2.png');
+        background-position: center;
+        object-fit: fill; 
+    }

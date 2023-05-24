@@ -3,7 +3,7 @@ import '../Navbar/navbar.css'
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light p-0">
+        <nav className="navbar navbar-expand-lg navbar-light p-0 navbarMain">
         <div className="container-fluid">
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
