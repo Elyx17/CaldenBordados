@@ -1,15 +1,18 @@
 .containerFooter{
     width: 100%;
     position: absolute;
-    bottom: 0;
+    padding: 2em;
+    margin-top: 7rem;
     text-align: center;
     justify-content: center;
+    background-color: #dbdbdb;
 }
 
 .container-botones{
+    width: 100%;
     display: flex;
     height: auto;
-    width: 100%;
+    padding: 2em 0;
     justify-content: center;
     align-items: center;
 }
@@ -47,4 +50,15 @@
 
 .parrafo-whatsapp{
     margin: 0;
+}
+
+.footer-link a{
+    padding: 10px;
+    color: var(--main-text-active);
+    text-decoration: none;
+}
+
+.copyright{
+    color: var(--main-text-active);
+    font-size: small;
 }

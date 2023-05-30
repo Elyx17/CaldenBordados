@@ -3,7 +3,7 @@ import '../Footer/Footer.css'
 
 const Footer = () => {
     return (
-        <div className='containerFooter'>
+        <footer className='containerFooter'>
             <div className='container-botones'>
                 <button className='buttonInstagram'>
                     <i className="bi bi-instagram"></i>
@@ -15,11 +15,14 @@ const Footer = () => {
                 </button>
             </div>
             <div className='footer-link'>
-                <button>Homer</button>
-                <button>Galeria</button>
-                <button>Acerca</button>
+                <a href="#">Homer</a>
+                <a href="#">Galeria</a>
+                <a href="#">Acerca</a>
+                <br />
+                <br />
+                <i className='bi bi-c-circle copyright'>2023 Calden Bordados</i>
             </div>
-        </div>
+        </footer>
     );
 }
 
