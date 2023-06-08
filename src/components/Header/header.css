@@ -1,43 +1,7 @@
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: auto;
-    gap: 50px;
-    flex-wrap: wrap;
-    margin-top: 90px;
-}
-
-.imgHeader{
-    border-radius: 50%;
-    min-width: 400px;
-    height: 400px;
+@media (max-width: 768px) {
     
-}
+   .carru{
+    margin-bottom: 15rem;
+   }
 
-.box{
-    width: 600px;
-    height: 600px;
-    background-image: url("https://cdn-imgix.headout.com/tour/12441/TOUR-IMAGE/64a0a5a9-488e-4c5c-b427-e2ccfc5d51fa-6867-dubai-fast-track-img-worlds-of-adventure-tickets-04.jpeg"), linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1) );
-    object-fit: contain;
-    transition: 1.5s;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: var(--color2);
-}
-
-.boxGradient{
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5) );
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: var(--color2);
-}
-
-.box:hover{
-    background-position: -5px;
 }

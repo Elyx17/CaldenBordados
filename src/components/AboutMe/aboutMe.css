@@ -99,6 +99,7 @@ object-fit: fill;
     align-items: center;
     gap: 40px;
     margin: 15px 30px;
+    flex-wrap: wrap;
 }
 
 .imgAbout{
@@ -109,8 +110,35 @@ object-fit: fill;
     background-size: 22rem;
     background-position: center;
     background-repeat: no-repeat;
+    transition: 1s;
+}
+
+.imgAbout:hover{
+    background-image: url('../../../public/Img/principales/about2.jpg');
 }
 
 .textAbout{
     width: 400px;
+}
+
+@media (max-width: 768px) {
+    
+    .textAbout{
+        width: 300px;
+        text-align: center;
+    }
+
+    .textAbout h3{
+        font-size: 3rem;
+    }
+
+    .textAbout p{
+        font-size: 1.3rem;
+        margin-bottom: 15rem;
+    }
+
+    .containerAboutMe{
+        margin: 40rem 0 15rem 0;
+    }
+
 }

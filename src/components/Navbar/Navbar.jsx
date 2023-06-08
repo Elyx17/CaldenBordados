@@ -24,7 +24,7 @@ const Navbar = () => {
               </li>
             </ul>
             <div>
-            <img className='caldenLogo' src="./img/logo/caldenLogo.png" alt="CaldenLogotipo"/>
+            <img className='caldenLogo' src="./img/logo/logo.png" alt="CaldenLogotipo"/>
             </div>
           </div>
         </div>

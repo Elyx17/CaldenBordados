@@ -13,6 +13,35 @@ body{
     margin: 0;
 }
 
+body{
+    scroll-behavior: smooth;
+    text-transform: none;
+  }
+  
+  body::-webkit-scrollbar{
+    width: 3px;
+    height: 3px;
+    background-color: var(--main-primary-color);
+    z-index: -10;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    width: 3px;
+    background-color: var(--main-text-active);
+    border: 5px solid var(--main-text-active);
+    border-radius: 25px;
+    z-index: -1;
+  
+  }
+
 .allTitles{
     text-transform: capitalize;
+}
+
+
+@media (max-width: 768px) {
+    
+  body::-webkit-scrollbar{
+      width: 2px;
+  }
 }

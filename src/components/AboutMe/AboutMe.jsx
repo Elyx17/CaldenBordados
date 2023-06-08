@@ -35,13 +35,13 @@ const AboutMe = () => {
                 <div className='historyAbout'>
                     <div className='imgAbout'></div>
                     <div className='textAbout'>
-                        <h3>¿Cómo nace Calden?</h3>
+                        <h3>¿Quien está detrás de Calden?</h3>
                         <p>
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ullam accusantium, 
-                       tenetur sed commodi corrupti est repellat necessitatibus inventore, iste neque tempore adipisci doloremque, aperiam officiis. 
-                       Exercitationem, deserunt fuga! Odio atque, aliquam voluptate similique quo modi aspernatur quam! Beatae, architecto?
-                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, nostrum asperiores consequuntur, iusto quisquam repudiandae 
-                       vel necessitatibus cumque assumenda dicta ex debitis animi voluptate similique vero ab. Sequi, natus aspernatur.
+                        Mi nombre es Ana fundadora de calden bordados, nací en Trenque Lauquen, provincia de Bs.As. Vine a Caba a estudiar a los 18 años, la carrera de Profesorado de Expresión Corporal.
+                         (Desde los 5 años tomé clases de  danza clásica hasta que vine a Caba). Forme mi familia.
+                          Siempre tengo presente en mis días a mi ciudad, tengo familia allá. Paso los veranos en la quinta. Disfruto del Aire de  campo,  naturaleza, flores, animales.
+                           Siempre me gustaron las manualidades e ir descubriendo técnicas nuevas.  He realizado velas, como emprendimiento cuando tenía 20 años. 
+                           Me gusta la danza, las obras de arte, la música, la fotografía; hace unos años retomé clases de danza. 
                         </p>
                     </div>
                 </div>
