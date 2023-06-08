@@ -7,27 +7,39 @@ const Galeria = () => {
             <div className="cajaimg">
                 <div className="container-img">
                     <img className='img' src='./Img/galeria/bolso-amarillo.jpg' alt="" />
+                    <div className="contenedorTexto">
                     <h6 className="textoCard">Cartera amarilla</h6>
+                    </div>
                 </div>
                 <div className="container-img">
                     <img className='img' src='./Img/galeria/bolso-amarillo.jpg' alt="" />
+                    <div className="contenedorTexto">
                     <h6 className="textoCard">Cartera amarilla</h6>
+                    </div>
                 </div>
                 <div className="container-img">
                     <img className='img' src='./Img/galeria/bolso-amarillo.jpg' alt="" />
+                    <div className="contenedorTexto">
                     <h6 className="textoCard">Cartera amarilla</h6>
+                    </div>
                 </div>
                 <div className="container-img">
                     <img className='img' src='./Img/galeria/bolso-amarillo.jpg' alt="" />
+                    <div className="contenedorTexto">
                     <h6 className="textoCard">Cartera amarilla</h6>
+                    </div>
                 </div>
                 <div className="container-img">
                     <img className='img' src='./Img/galeria/bolso-amarillo.jpg' alt="" />
+                    <div className="contenedorTexto">
                     <h6 className="textoCard">Cartera amarilla</h6>
+                    </div>
                 </div>
                 <div className="container-img">
                     <img className='img' src='./Img/galeria/bolso-amarillo.jpg' alt="" />
+                    <div className="contenedorTexto">
                     <h6 className="textoCard">Cartera amarilla</h6>
+                    </div>
                 </div>
             </div>
         </div>
