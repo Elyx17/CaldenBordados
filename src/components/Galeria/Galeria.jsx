@@ -5,7 +5,7 @@ import '../Galeria/Galeria.css'
 const Galeria = () => {
     return (
         <div id='proyects'>
-            <div className='containerMainProyects bg-pan-top'>
+            <div className='containerMainProyects bg-pan-top' id='pics'>
                 <div className="contenedor">
                     <a href="#">
                         <figure>
