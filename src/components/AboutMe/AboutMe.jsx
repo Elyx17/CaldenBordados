@@ -20,7 +20,7 @@ const AboutMe = () => {
 
                     <div className="icon">
                         <div id='tienda'></div>
-                        <h3>Tienda</h3>
+                        <h3>Pedido</h3>
                     </div>
 
                     <div className="icon">
