@@ -22,13 +22,13 @@ const AboutMe = () => {
                         <div id='tienda'></div>
                         <h3>Tienda</h3>
                     </a>
+
+                    <a href="#footer" className="icon">
+                        <div id='contacto'></div>
+                        <h3>Contacto</h3>
+                    </a>
+
                 </div>
-
-                <a href="#footer" className="icon">
-                    <div id='contacto'></div>
-                    <h3>Contacto</h3>
-                </a>
-
 
             </div>
             <div className='historyAbout'>

@@ -11,7 +11,7 @@ const Footer = () => {
                 </button>
                 <button className='buttonWhatsapp'>
                     <i className="bi bi-whatsapp"></i>
-                    <a className='parrafo-whatsapp' href='https://api.whatsapp.com/send?phone=54 9 1161138759&text=Hola%20,queria%20saber%20mas
+                    <a className='parrafo-whatsapp' href='https://api.whatsapp.com/send?phone=54 9 1161138759&text=Hola,%20queria%20saber%20mas
 %20sobre%20tus%20productos...%20.' target="_blank" rel="noreferrer noopener">Whatsapp</a>
                 </button>
             </div>
