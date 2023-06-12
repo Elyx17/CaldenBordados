@@ -6,7 +6,7 @@ const Galeria = () => {
     return (
         <div id='proyects'>
             <div className='containerMainProyects bg-pan-top'>
-                <div class="contenedor">
+                <div className="contenedor">
                     <a href="#">
                         <figure>
                             <img src="./Img/galeria/cartuchera-costura.jpg" />
