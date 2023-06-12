@@ -8,25 +8,25 @@ const AboutMe = () => {
 
                 <div className='iconsAbout'>
 
-                    <div className="icon">
+                    <a href="#acercade" className="icon">
                         <div id='acerca'></div>
-                        <h3>Acerca</h3>
-                    </div>
+                        <h3>Nosotros</h3>
+                    </a>
 
-                    <div className="icon">
+                    <a href="#pics" className="icon">
                         <div id='galeria'></div>
                         <h3>Galeria</h3>
-                    </div>
+                    </a>
 
-                    <div className="icon">
+                    <a href="#tienda-ig" className="icon">
                         <div id='tienda'></div>
                         <h3>Tienda</h3>
-                    </div>
+                    </a>
 
-                    <div className="icon">
+                    <a href="#footer" className="icon">
                         <div id='contacto'></div>
                         <h3>Contacto</h3>
-                    </div>
+                    </a>
 
 
                 </div>

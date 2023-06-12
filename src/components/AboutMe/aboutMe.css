@@ -30,6 +30,8 @@
 
 .icon{
     display: flex;
+    text-decoration: none;
+    color: black;
     flex-direction: column;
     justify-content: center;
     align-items: center;

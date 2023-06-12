@@ -3,7 +3,7 @@ import '../Navbar/navbar.css'
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light p-0 navbarMain">
+        <nav className="navbar navbar-expand-lg navbar-light p-0 navbarMain" id='inicio'>
         <div className="container-fluid">
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
@@ -11,8 +11,8 @@ const Navbar = () => {
           <div className="collapse navbar-collapse navbarCalden" id="navbarColor03">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" href="#acercade">Acerca</a>
-              </li>
+                <a className="nav-link" href="#acercade">Nosotros</a>
+              </li> 
               <li className="nav-item">
                 <a className="nav-link" href="#pics">Galeria</a>
               </li>
@@ -20,7 +20,7 @@ const Navbar = () => {
                 <a className="nav-link" href="#footer">Contacto</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Tienda</a>
+                <a className="nav-link" href="#tienda-ig">Tienda</a>
               </li>
             </ul>
             <div>
